@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/Scripts/Lesson14_\u534F\u8C03\u7A0B\u5E8F/Lesson14.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
